@@ -1,4 +1,4 @@
-# AiAgent Integration with Chainlit UI 🤖
+# AI-Agent with Chainlit 🤖
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
