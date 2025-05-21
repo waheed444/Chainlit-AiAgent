@@ -1,0 +1,21 @@
+[project]
+name = "agent-06"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Waheed Ahmad", email = "waheedahmad5519@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "chainlit>=2.5.5",
+    "litellm>=1.70.2",
+    "openai-agents>=0.0.12",
+]
+
+[project.scripts]
+agent-06 = "agent_06:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
